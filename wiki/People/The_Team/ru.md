@@ -1,8 +1,8 @@
 # Команда
 
-*For a list of promotions and retirements, см.: [Staff Log](/wiki/Staff_Log)*
+*Список повышений и отставок см. в [Журнале персонала](/wiki/Staff_Log)*
 
-Люди, указанные ниже — ядро **osu!team** and are chiefly responsible for helping make the game awesome for everyone.
+Люди, указанные ниже — ядро **osu!team** и в основном несут ответственность за то, чтобы помочь сделать игру превосходной для всех.
 
 | Имя | Роль |
 | :-- | :-- |
@@ -29,15 +29,15 @@
 
 ## Пользовательские группы
 
-The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
+Ниже приведены группы пользователей, состоящие из членов сообщества osu!, которые помогают поддерживать игру. Большинство из этих групп можно распознать по цветам на форуме и во внутриигровом чате, названиям и/или значкам в профилях.
 
 | Название | Описаие |
 | :-- | :-- |
-| [Номинаторы карт](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Разработчики](Developers) | Making the game awesome by adding new features and fixing the bugs |
-| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
+| [Номинаторы карт](Beatmap_Nominators) | Пользователи, выходящие за рамки возможного, чтобы убедиться, что Ваши карты соответствуют требованиям |
+| [Разработчики](Developers) | Делание игры потрясающей, путём добавления новых функций и исправлений ошибок |
+| [Global Moderation Team](Global_Moderation_Team) | Наблюдение за форумами и внутриигровым чатом |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Управление Номинаторами карт |
+| [osu! Alumni](osu!_Alumni) | Те, кто стали известны своим вкладом и продвинулись дальше |
 | [Команда Project Loved](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | [Команда поддержки](Support_Team) | Помощь / Feature Request assistance |
 
@@ -49,15 +49,15 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, [официальный член osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeper, менеджер сообщества |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | разработчик osu!, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Разработчик osu!, provider of IRC integration for in-game chat, site maintainer. [Блог](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | разработчик osu!, provider of osz2 and p2p backend |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, provider of osz2 and p2p backend |
 | ![][flag_US] Jim | Оригинальный дизайн сайта. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор World Cup, лидер QAT, менеджер сообщества |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | разработчик osu!, creator of mm sliders |
-| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | раработчик osu! для iPhone |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | раработчик osu!, организатор Mappers' Guild |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Эпичный дизайнер скинов, внёсший вклад в стандартный скин и набор иконок. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, creator of mm sliders |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Раработчик osu! для iPhone |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Раработчик osu!, организатор Mappers' Guild |
 | ![][flag_US] Phil | Forum designer |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Оригинальный концепт pippi and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
@@ -65,7 +65,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы очков производительности |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и режима osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), media and character designer |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), ответственный за медиа и дизайн персонажей |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
 [flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
