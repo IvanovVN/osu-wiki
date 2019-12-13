@@ -1,56 +1,84 @@
----
-outdated: true
----
-
 # Команда
 
-## Создатель
+*For a list of promotions and retirements, см.: [Staff Log](/wiki/Staff_Log)*
 
-| имя | описание |
-| ---- | ----------- |
-| [peppy](https://osu.ppy.sh/users/2) | Лидер проекта |
+Люди, указанные ниже — ядро **osu!team** and are chiefly responsible for helping make the game awesome for everyone.
 
-## В строю
+| Имя | Роль |
+| :-- | :-- |
+| ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Руководство проектом** |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation and community advisor |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Руководство дизайном, resident Creative Cloud watcher |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор World Cup |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modding and mapping scene advisor |
+| ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, [официальный член osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Разработчик osu!web |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, организатор Mappers' Guild, Featured Artist outreach |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeper, wiki maintainer |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, любитель osu!mania, bug buster |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Менеджер Project Loved, советчик сообщества, Featured Artist outreach |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
+| ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-| имя | описание |
-| ---- | ----------- |
-| [Ephemeral](https://osu.ppy.sh/users/102335) | Поддержка игроков, Секретарь в очках |
-| [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Ведущий дизайнер |
-| [Loctav](https://osu.ppy.sh/users/71366) | Организация официальных турниров, Управление сообществом и персоналом |
-| [nanaya](https://osu.ppy.sh/users/2387883) | Веб-программист |
-| [RBRat3](https://osu.ppy.sh/users/307202) | Художник osu!, Чемпион по прикольным идеям |
-| [smoogipooo](https://osu.ppy.sh/users/1040328) | Разработчик osu!mania, Уничтожитель багов |
-| [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик системы PP |
-| [yelle](https://osu.ppy.sh/users/4916903) | Управление онлайн-магазином osu! |
-| [ztrot](https://osu.ppy.sh/users/6347) | Профессор osu!academy, Ответственный за медиа и дизайн персонажей |
-| [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
+## Пользовательские группы
 
-## Ушедшие на покой
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
 
-| имя | описание |
-| ---- | ----------- |
-| [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Присмотр за некоторыми вещами, помощь тут и там, Чиби-рисунки для игры и сайта |
-| [Derekku](https://osu.ppy.sh/users/91341) | Присмотр за некоторыми вещами, Управление сообществом |
-| [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Разработчик osu!, Встраивание внутриигрового чата, Присмотр за сайтом |
-| [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, Реализация компонентов osz2/p2p |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Оригинальный дизайн сайта |
-| [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Потрасающие скины, Вклад в стандартный скинt |
-| [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, ~ с л а й д е р ы ~ |
-| [nuudles](https://osu.ppy.sh/users/21312) | Автор порта osu! на iPhone |
-| Phil | Дизайн форума |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Оригинальный концепт pippi и артворки |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Организатор встреч, Значительный вклад в FAQ |
-| [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu!, Разработчик osu!mania |
+| Название | Описаие |
+| :-- | :-- |
+| [Номинаторы карт](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Разработчики](Developers) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
+| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
+| [Команда Project Loved](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Команда поддержки](Support_Team) | Помощь / Feature Request assistance |
 
-## Группы пользователей
+## Неактивные члены Команды
 
-| имя | описание |
-| ---- | ----------- |
-| [Глобальные модераторы (GMT)](/wiki/People/Global_Moderation_Team) | Наблюдение за форумами и игровым чатом |
-| [Номинаторы карт (BNG)](/wiki/People/Beatmap_Nomination_Group) | Те, кто номинирует карты и днём и ночью |
-| [Разработчики](https://osu.ppy.sh/groups/11) | Реализация нововведений, исправление багов |
-| [osu!alumni](/wiki/People/osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Техподдержка](/wiki/People/Support_Team) | Помощь в разделах Help и Feature Requests |
-| [osu!news](https://osu.ppy.sh/groups/25) | Качественные статьи с 2013 года |
-| [Турнирный персонал](https://osu.ppy.sh/groups/26) | Responsible for handling officially supported osu! tournaments across all gamemodes. |
-| [Контроль качества (QAT)](/wiki/People/Quality_Assurance_Team) | Контроль качества ранкнутых карт |
+| Имя | Роль |
+| :-- | :-- |
+| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, [официальный член osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор World Cup |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeper, менеджер сообщества |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | разработчик osu!, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | разработчик osu!, provider of osz2 and p2p backend |
+| ![][flag_US] Jim | Оригинальный дизайн сайта. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор World Cup, лидер QAT, менеджер сообщества |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | разработчик osu!, creator of mm sliders |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | раработчик osu! для iPhone |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | раработчик osu!, организатор Mappers' Guild |
+| ![][flag_US] Phil | Forum designer |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Оригинальный концепт pippi and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы очков производительности |
+| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и режима osu!mania |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), media and character designer |
+
+[flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
+[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
+[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
+[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_US]: /wiki/shared/flag/US.gif "США"
+[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
+[flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
+[flag_CN]: /wiki/shared/flag/CN.gif "Китай"
+[flag_GR]: /wiki/shared/flag/GR.gif "Греция"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
+[flag_GB]: /wiki/shared/flag/GB.gif "Великобритания"
